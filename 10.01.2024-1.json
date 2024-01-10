@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Ritter",
+    "age": 22,
+    "address": {
+        "street": "Evans Loop",
+        "city": "Woodsview",
+        "state": "Rhode Island",
+        "zip": "13723"
+    },
+    "contact": {
+        "phone": "+1-506-431-5612x003",
+        "servicePhone": "800238353"
+    },
+    "birthday": "2003-11-02",
+    "ip": "124.245.216.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader do lay everybody somebody fear. Back nearly head audience.\nSort meet head country skin. Tv series senior line learn coach.",
+        "bio": "Business argue bed hear time.\nOption blood save after town pattern. Ever exactly agency ahead attack.\nGood rest leave business. Person about character. Light address option."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

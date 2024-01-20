@@ -1,0 +1,25 @@
+{
+    "name": "Francisco Haynes",
+    "age": 48,
+    "address": {
+        "street": "Omar Pine",
+        "city": "Taylorbury",
+        "state": "North Carolina",
+        "zip": "16963"
+    },
+    "contact": {
+        "phone": "001-271-576-3953x5149",
+        "servicePhone": "800773033"
+    },
+    "birthday": "1977-01-02",
+    "ip": "159.172.244.235",
+    "foo": "bar",
+    "profile": {
+        "about": "View while democratic. Fish everybody speak.\nWith end and ball talk. Worker group share indicate. Bar town stuff politics.",
+        "bio": "With account government understand onto open. Let seek character pretty late.\nFirst very culture right item college create. Price public guess author enter."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

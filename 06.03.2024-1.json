@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Martin",
+    "age": 50,
+    "address": {
+        "street": "Lauren Crescent",
+        "city": "Castilloshire",
+        "state": "Kentucky",
+        "zip": "21741"
+    },
+    "contact": {
+        "phone": "+1-305-618-8496x73308",
+        "servicePhone": "800108941"
+    },
+    "birthday": "1975-02-02",
+    "ip": "132.187.245.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Analysis sure another relationship summer bank. Test door girl notice. Would pass no forward. Hair rule time white.",
+        "bio": "System be run clearly vote. Certainly everything enough lay customer brother month. Accept hair start successful recent again bill."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}

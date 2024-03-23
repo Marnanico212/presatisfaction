@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Martin",
+    "age": 98,
+    "address": {
+        "street": "Olivia Creek",
+        "city": "East Evan",
+        "state": "Michigan",
+        "zip": "95355"
+    },
+    "contact": {
+        "phone": "4645622064",
+        "servicePhone": "800303207"
+    },
+    "birthday": "1927-26-11",
+    "ip": "27.252.0.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Most reduce position area entire. Production possible drive land tend health finish. Book market example sit assume.",
+        "bio": "Information popular forget despite while. Modern require any language. But nor build understand."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Richard Clark",
+    "age": 96,
+    "address": {
+        "street": "Adrienne Springs",
+        "city": "Gordonmouth",
+        "state": "South Carolina",
+        "zip": "37428"
+    },
+    "contact": {
+        "phone": "(999)758-4740x366",
+        "servicePhone": "800230864"
+    },
+    "birthday": "1929-12-02",
+    "ip": "99.5.20.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect guy expect so despite leave. Kitchen this during head team.\nResult small new husband late. May note send tell fill political.",
+        "bio": "Story expect single true. Than level add return risk determine. Him happen eye admit perhaps Congress but.\nAgainst fact product catch special often. Go police operation."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}

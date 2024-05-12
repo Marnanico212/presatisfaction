@@ -1,0 +1,25 @@
+{
+    "name": "Ricky Oconnell",
+    "age": 74,
+    "address": {
+        "street": "Marquez Field",
+        "city": "North Christineview",
+        "state": "Delaware",
+        "zip": "49249"
+    },
+    "contact": {
+        "phone": "001-978-339-1259x49486",
+        "servicePhone": "800454083"
+    },
+    "birthday": "1951-13-06",
+    "ip": "222.52.41.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Foot international election seem quickly blue. Entire newspaper rich power region low.\nSay address north section seem market. Find than after voice.",
+        "bio": "Bed off admit still. Ball future first realize. Large statement never after I age when.\nThey hold others line whole than your interesting. Name turn relate shoulder the. Water building religious."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}

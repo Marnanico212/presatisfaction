@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Oliver",
+    "age": 14,
+    "address": {
+        "street": "Sheri Mountains",
+        "city": "West Jenniferburgh",
+        "state": "Virginia",
+        "zip": "04231"
+    },
+    "contact": {
+        "phone": "001-490-467-0152x20035",
+        "servicePhone": "800556319"
+    },
+    "birthday": "2011-28-07",
+    "ip": "55.236.40.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Decision always service large. Night issue action food. Place work significant eight offer resource market behavior.",
+        "bio": "Commercial garden their push fall something. Expect during give other plan option. Decide image various involve indeed."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

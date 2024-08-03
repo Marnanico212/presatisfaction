@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Young",
+    "age": 29,
+    "address": {
+        "street": "Black Inlet",
+        "city": "Port Gary",
+        "state": "South Carolina",
+        "zip": "81008"
+    },
+    "contact": {
+        "phone": "001-673-405-1239x7856",
+        "servicePhone": "800696002"
+    },
+    "birthday": "1996-03-07",
+    "ip": "209.254.233.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference town stop while prevent. Crime then why laugh. Must can amount large. Decision born maybe energy yard report.",
+        "bio": "Wind PM rest while itself seek business several.\nImpact area practice pressure we some yes. Because expert new soldier cut. Good herself chance learn focus budget few theory."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

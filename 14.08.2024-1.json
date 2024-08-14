@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Trevino",
+    "age": 17,
+    "address": {
+        "street": "Miller Roads",
+        "city": "New Karenshire",
+        "state": "North Dakota",
+        "zip": "21213"
+    },
+    "contact": {
+        "phone": "7763015584",
+        "servicePhone": "800117539"
+    },
+    "birthday": "2008-04-08",
+    "ip": "93.17.175.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself wife man good fill whose. Force seem day not talk worker remember.\nMain forget sort. Measure effort feel second size story. Medical win marriage art administration tonight.",
+        "bio": "Consider area lose address. Bad state affect. Activity edge who dark remember cultural student. Reach serious security goal.\nReport different situation away.\nDifficult support before inside."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

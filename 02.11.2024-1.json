@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Walker",
+    "age": 5,
+    "address": {
+        "street": "Ryan Spur",
+        "city": "Osbornefort",
+        "state": "Maryland",
+        "zip": "11418"
+    },
+    "contact": {
+        "phone": "616.806.7547",
+        "servicePhone": "800664191"
+    },
+    "birthday": "2020-28-02",
+    "ip": "211.26.33.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether soon type edge will. Inside writer provide.\nBack heavy authority. Speak catch heavy soon former tree.",
+        "bio": "Minute deal success series sure movie.\nEvent parent it face. Attorney material painting future itself place. Ball site have choice."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

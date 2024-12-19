@@ -1,0 +1,25 @@
+{
+    "name": "Christine Yang",
+    "age": 11,
+    "address": {
+        "street": "Scott Flat",
+        "city": "Harveyville",
+        "state": "Maryland",
+        "zip": "56204"
+    },
+    "contact": {
+        "phone": "(451)957-5135",
+        "servicePhone": "800158698"
+    },
+    "birthday": "2014-30-03",
+    "ip": "130.126.101.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior him method camera car watch a. Difference senior the yes.\nSize offer remember either with represent. Prove book score difficult when as.\nImpact what your.",
+        "bio": "Cost minute spend say either nearly. Side option science blue teacher. But understand such actually begin recognize few."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

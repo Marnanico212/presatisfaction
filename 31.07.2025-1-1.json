@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Turner",
+    "age": 24,
+    "address": {
+        "street": "Day Center",
+        "city": "Lake Gregoryfurt",
+        "state": "Maryland",
+        "zip": "81511"
+    },
+    "contact": {
+        "phone": "+1-893-809-1101x651",
+        "servicePhone": "800219788"
+    },
+    "birthday": "2001-11-05",
+    "ip": "190.202.76.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish movie direction huge real suddenly fine. Officer increase item national must blue camera. Participant why fact tend several leader.",
+        "bio": "Glass former four power suffer Mrs simply. Officer town huge seat free. Daughter campaign as company at."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

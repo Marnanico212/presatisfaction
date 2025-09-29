@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Sullivan",
+    "age": 109,
+    "address": {
+        "street": "Tyler Burg",
+        "city": "Port William",
+        "state": "Oklahoma",
+        "zip": "82423"
+    },
+    "contact": {
+        "phone": "+1-865-348-1109",
+        "servicePhone": "800224529"
+    },
+    "birthday": "1916-05-07",
+    "ip": "221.89.208.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood kind finish item political. Economy cut save professional main third treat. His bar add education.",
+        "bio": "Ask loss deep note number chance executive. Example kind resource serve bank than. Now skin difference sense."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

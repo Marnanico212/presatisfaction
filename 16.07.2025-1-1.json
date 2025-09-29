@@ -1,0 +1,25 @@
+{
+    "name": "Michaela Krause",
+    "age": 0,
+    "address": {
+        "street": "Billy Meadow",
+        "city": "New Sarafort",
+        "state": "West Virginia",
+        "zip": "12454"
+    },
+    "contact": {
+        "phone": "(813)764-2573x939",
+        "servicePhone": "800446244"
+    },
+    "birthday": "2025-02-02",
+    "ip": "102.98.168.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Why let authority bad short himself remember. Not ground idea nice old very difference.",
+        "bio": "Camera professional process employee study lot police.\nDraw series perform answer. Past true image sea this wait expect. Reach best still dream woman wife."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}

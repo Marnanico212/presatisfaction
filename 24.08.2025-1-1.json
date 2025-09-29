@@ -1,0 +1,25 @@
+{
+    "name": "Debbie Roy",
+    "age": 110,
+    "address": {
+        "street": "Rachel Estates",
+        "city": "Lake Erik",
+        "state": "Michigan",
+        "zip": "47726"
+    },
+    "contact": {
+        "phone": "(419)235-3500x0177",
+        "servicePhone": "800009879"
+    },
+    "birthday": "1915-27-12",
+    "ip": "213.30.234.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Rich art each today during green. Choose itself serve admit. Region deep scientist not ago animal.\nControl couple price first easy job act. Analysis traditional real around rule card door team.",
+        "bio": "Thousand court song simple billion. Yes education indeed reflect.\nAll some respond take unit about learn director. Street teacher upon stay pull."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Darryl Flores",
+    "age": 33,
+    "address": {
+        "street": "Phyllis Spur",
+        "city": "Port Kathryn",
+        "state": "Connecticut",
+        "zip": "11503"
+    },
+    "contact": {
+        "phone": "589.801.9175",
+        "servicePhone": "800151158"
+    },
+    "birthday": "1992-25-08",
+    "ip": "158.112.174.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Large position capital international bed. Entire especially notice analysis we. Surface hour organization save black.",
+        "bio": "Painting officer leg senior college wall trade. Feel against lawyer into.\nCustomer tend bit black question. Audience weight seven industry."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}

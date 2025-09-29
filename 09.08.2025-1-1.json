@@ -1,0 +1,25 @@
+{
+    "name": "Eric Hatfield",
+    "age": 28,
+    "address": {
+        "street": "Mcdonald Shoals",
+        "city": "Tiffanyton",
+        "state": "South Carolina",
+        "zip": "01969"
+    },
+    "contact": {
+        "phone": "(441)952-5965x081",
+        "servicePhone": "800094054"
+    },
+    "birthday": "1997-11-04",
+    "ip": "155.29.28.169",
+    "foo": "bar",
+    "profile": {
+        "about": "North from watch bring picture. Cause check wait thus reveal natural pattern. Single loss hand whole act parent fact.",
+        "bio": "Major break yes fall need part. Nearly hard degree board key increase. Free any reflect history everyone since. Until see economic fire."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

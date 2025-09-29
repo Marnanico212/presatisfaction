@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Morton",
+    "age": 111,
+    "address": {
+        "street": "Webb Garden",
+        "city": "East Angelaport",
+        "state": "Maryland",
+        "zip": "64254"
+    },
+    "contact": {
+        "phone": "665.756.4034",
+        "servicePhone": "800131267"
+    },
+    "birthday": "1914-15-06",
+    "ip": "165.158.6.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist design per down collection worry most. Door standard mission. Finish much game. Mission idea look protect fly might always.",
+        "bio": "Letter even time. Catch country difference drop response he. Pay society itself contain perform."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

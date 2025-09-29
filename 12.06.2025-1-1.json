@@ -1,0 +1,25 @@
+{
+    "name": "Tony Cruz",
+    "age": 72,
+    "address": {
+        "street": "Stephanie Underpass",
+        "city": "Mcdowellview",
+        "state": "South Dakota",
+        "zip": "30675"
+    },
+    "contact": {
+        "phone": "(824)582-7551x05518",
+        "servicePhone": "800782318"
+    },
+    "birthday": "1953-04-01",
+    "ip": "202.168.46.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Life main sometimes until current civil.\nDoor crime hospital cold economic. Trade able require beat.",
+        "bio": "Able strategy wide person learn seem whose. Organization tree response summer. Situation company might without seem."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

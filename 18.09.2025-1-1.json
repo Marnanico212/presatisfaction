@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Smith",
+    "age": 72,
+    "address": {
+        "street": "Jones Rest",
+        "city": "Michaelshire",
+        "state": "Kentucky",
+        "zip": "14374"
+    },
+    "contact": {
+        "phone": "+1-359-694-5228x6868",
+        "servicePhone": "800935059"
+    },
+    "birthday": "1953-28-12",
+    "ip": "129.87.23.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss art activity current up no appear. Friend run better from.\nColor father morning. Read somebody represent financial worry.",
+        "bio": "School common class staff particular. Suggest measure we seat. Leave pressure kind three and.\nStandard doctor issue analysis second couple deal. Research account clear southern later a."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Cooper",
+    "age": 95,
+    "address": {
+        "street": "Davis Hollow",
+        "city": "West Julianview",
+        "state": "Kansas",
+        "zip": "75653"
+    },
+    "contact": {
+        "phone": "001-382-954-1247x7178",
+        "servicePhone": "800899523"
+    },
+    "birthday": "1930-30-06",
+    "ip": "194.22.45.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention or room. By recent similar responsibility spend unit career.\nBuild carry painting build house including cultural. Protect fine letter society policy above.\nModel me spring home design too.",
+        "bio": "Question up sense learn. Religious well traditional maybe. Across professional by least establish give.\nValue while produce where nor. Order land fear decision federal. Store brother part rise."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

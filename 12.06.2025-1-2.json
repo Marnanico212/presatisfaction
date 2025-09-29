@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Elliott",
+    "age": 105,
+    "address": {
+        "street": "William Locks",
+        "city": "North Amandaview",
+        "state": "Missouri",
+        "zip": "68467"
+    },
+    "contact": {
+        "phone": "6709329975",
+        "servicePhone": "800730335"
+    },
+    "birthday": "1920-01-07",
+    "ip": "114.59.185.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Author friend really executive it minute. Public on line general over.\nDuring seat first go. Town apply drive source.\nRepresent would article increase onto class. Over manager reveal peace.",
+        "bio": "More kitchen sign play mean. Mother wide training sea. Total behavior total large knowledge dog."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

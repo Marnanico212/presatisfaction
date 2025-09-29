@@ -1,0 +1,25 @@
+{
+    "name": "Misty Contreras",
+    "age": 65,
+    "address": {
+        "street": "Megan Ridge",
+        "city": "Reyesbury",
+        "state": "Nevada",
+        "zip": "18935"
+    },
+    "contact": {
+        "phone": "3252286703",
+        "servicePhone": "800712180"
+    },
+    "birthday": "1960-06-02",
+    "ip": "201.132.44.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal should pattern west world challenge. Issue food move law voice husband within reflect.\nHear third system do. Alone traditional TV economy. Fast method drug own.",
+        "bio": "Us require whom. Care pretty perform. Section worry tree prove million.\nNight marriage growth whose painting. Plant source local case. Doctor page to each second book oil."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

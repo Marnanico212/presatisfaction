@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Smith",
+    "age": 35,
+    "address": {
+        "street": "Shannon Vista",
+        "city": "South Erika",
+        "state": "Alabama",
+        "zip": "04771"
+    },
+    "contact": {
+        "phone": "896.210.3271",
+        "servicePhone": "800097407"
+    },
+    "birthday": "1990-26-07",
+    "ip": "171.100.166.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth exist action suggest site simply. Central people wide watch behavior. Friend oil challenge middle. Enjoy blood role wait country.",
+        "bio": "Form argue study wish. Half my democratic possible vote common while difference. Meeting oil soldier miss amount agreement. Hear positive everyone already recently."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

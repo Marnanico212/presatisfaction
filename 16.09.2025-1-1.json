@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Schultz",
+    "age": 104,
+    "address": {
+        "street": "Cameron Corner",
+        "city": "Danielton",
+        "state": "Michigan",
+        "zip": "04640"
+    },
+    "contact": {
+        "phone": "432-605-4492x561",
+        "servicePhone": "800434941"
+    },
+    "birthday": "1921-30-10",
+    "ip": "140.178.53.245",
+    "foo": "bar",
+    "profile": {
+        "about": "After chance music avoid personal. Process charge sound end smile parent.",
+        "bio": "Choice owner need movie interview. Board nature real skin value.\nBuild responsibility perhaps any house. Doctor resource dark happy outside."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

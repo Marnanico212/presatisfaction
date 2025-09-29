@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Baker",
+    "age": 11,
+    "address": {
+        "street": "Williams Parkways",
+        "city": "Jamesburgh",
+        "state": "Kansas",
+        "zip": "92622"
+    },
+    "contact": {
+        "phone": "(897)708-7544x440",
+        "servicePhone": "800822877"
+    },
+    "birthday": "2014-27-12",
+    "ip": "215.169.165.172",
+    "foo": "bar",
+    "profile": {
+        "about": "You magazine line attention war choice real threat. Somebody face modern win.",
+        "bio": "Write carry minute control pick. Which south smile watch result common type. Five hard population factor anything."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

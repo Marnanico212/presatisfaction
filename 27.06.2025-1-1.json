@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Ballard",
+    "age": 27,
+    "address": {
+        "street": "Snyder Light",
+        "city": "Port Timothyport",
+        "state": "Oklahoma",
+        "zip": "22581"
+    },
+    "contact": {
+        "phone": "702-363-1223x8935",
+        "servicePhone": "800327545"
+    },
+    "birthday": "1998-15-07",
+    "ip": "103.198.162.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Air protect responsibility itself small. Or bad treatment sign.\nNice degree southern it. Our upon political start.\nAllow paper just seat soldier table marriage. Create their of traditional rich.",
+        "bio": "Special across minute leave.\nLay phone yard sometimes. Affect once glass bar test research. Employee give candidate goal return whether."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
